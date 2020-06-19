@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+    display: flex;
+    background: darkgreen;
+}
+
+main {
+    background: brown;
+}
+
+footer {
+    background: darkblue;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
